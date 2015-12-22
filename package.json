@@ -1,0 +1,22 @@
+{
+  "name": "gulp-template-replace",
+  "version": "0.0.1",
+  "description": "gulp插件，用于替换模版文件",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TOP-Chao/gulp-template-replace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TOP-Chao/gulp-template-replace/issues"
+  },
+  "homepage": "https://github.com/TOP-Chao/gulp-template-replace#readme",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "through2": "^2.0.0"
+  }
+}
