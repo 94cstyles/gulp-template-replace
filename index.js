@@ -2,7 +2,7 @@ var fs = require('fs'),
     path = require('path'),
     through = require('through2');
 
-var compressor = require('./Compressor');
+var compressor = require('./compressor');
 
 module.exports = function (options) {
     options = options || [];
